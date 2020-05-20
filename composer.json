@@ -1,9 +1,9 @@
 {
-    "name": "composerdemo",
-    "description": "this is composerdemo",
+    "name": "xiaoboliu/composerdemo",
+    "description": "Third party message push",
     "authors": [
         {
-            "name": "Xiaobo"
+            "name": "Xiaobo Liu"
         }
     ],
     "license": "MIT",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YanlongMa\\Push\\": "src/"
+            "XiaoboLiu\\composerdemo\\": "src/"
         }
     }
 }
