@@ -1,9 +1,10 @@
 {
-    "name": "xiaoboliu/composerdemo",
+    "name": "liuxiaobo/composerdemo",
     "description": "my demo",
     "authors": [
         {
-            "name": "Xiaobo Liu"
+            "name": "liuxiaobo",
+            "email": "xbfcok@gmail.com"
         }
     ],
     "license": "MIT",

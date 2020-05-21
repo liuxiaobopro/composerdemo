@@ -1,6 +1,7 @@
 <?php
 namespace composerdemo;
-class composerdemo{
+class composerdemo
+{
     public function demo()
     {
         return 'demo';
