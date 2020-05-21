@@ -1,19 +1,24 @@
 {
-    "name": "liuxiaobo/composerdemo",
-    "description": "my demo",
-    "authors": [
-        {
-            "name": "liuxiaobo",
-            "email": "xbfcok@gmail.com"
-        }
-    ],
-    "license": "MIT",
+    "name": "guanguans/uploadfile",
+    "description": "一个通用文件上传包",
+    "type": "library",
     "require": {
         "php": ">=5.4"
     },
+    "require-dev": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guanguans",
+            "email": "yzmguanguan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "XiaoboLiu\\composerdemo\\": "src/"
+            "Guanguans\\": "src/"
         }
     }
 }
