@@ -1,24 +1,36 @@
 {
-    "name": "guanguans/uploadfile",
-    "description": "一个通用文件上传包",
-    "type": "library",
+
+    "name": "yancoo.cn/test",
+
+    "description": "This is a test package,form yancoo.cn,author is siam.",
+
+    "type": "l",
+
     "require": {
-        "php": ">=5.4"
+
+        "php": ">=5.6.0"
+
     },
-    "require-dev": {
-        "php": ">=5.4"
-    },
-    "license": "MIT",
+
+    "license": "Apache",
+
     "authors": [
+
         {
-            "name": "guanguans",
-            "email": "yzmguanguan@gmail.com"
+
+            "name": "宣言",
+
+            "email": "59419979@qq.com"
+
         }
+
     ],
+
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Guanguans\\": "src/"
+            "Siam\\" : "src/siam"
         }
     }
+
 }
